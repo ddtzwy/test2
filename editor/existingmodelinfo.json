@@ -6,5 +6,37 @@
    "Initial Camera", 
    32768
   ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   1, 
+   "Holy Elder", 
+   1
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   2, 
+   "Holy Elder", 
+   1
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   3, 
+   "Holy Elder", 
+   1
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   4, 
+   "Holy Elder", 
+   1
+  ]
  }
 ]
