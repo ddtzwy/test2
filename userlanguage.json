@@ -1,0 +1,21 @@
+[
+    {
+        "$faction 1": "", 
+        "$faction 9999": "", 
+        "$player 1": "", 
+        "$player 31": "", 
+        "$player 32": "", 
+        "%default": "", 
+        "%default_2": ""
+    }, 
+    "zh", 
+    [
+        "zh", 
+        "en", 
+        "tw", 
+        "fr", 
+        "es", 
+        "kr", 
+        "jp"
+    ]
+]

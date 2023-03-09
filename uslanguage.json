@@ -1,0 +1,34 @@
+{
+    "2026561091": {
+        "key": 2026561091, 
+        "value": "<html><body><p>11</p><p>22</p></body></html>"
+    }, 
+    "$faction 1": {
+        "key": "$faction 1", 
+        "value": "Faction 1"
+    }, 
+    "$faction 9999": {
+        "key": "$faction 9999", 
+        "value": "Neutral"
+    }, 
+    "$player 1": {
+        "key": "$player 1", 
+        "value": "Player 1"
+    }, 
+    "$player 31": {
+        "key": "$player 31", 
+        "value": "Neutral Hostile"
+    }, 
+    "$player 32": {
+        "key": "$player 32", 
+        "value": "Neutral Friendly"
+    }, 
+    "%default": {
+        "key": "%default", 
+        "value": "321\\\\n321"
+    }, 
+    "%default_2": {
+        "key": "%default_2", 
+        "value": "%default_2"
+    }
+}
